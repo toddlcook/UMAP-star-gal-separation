@@ -24,4 +24,4 @@ Finally, the fourth notebook (4.G09_analysis.ipynb) conducts some cursory analys
 
 
 ### Happy UMAPing! 
-![hello](https://github.com/toddlcook/UMAP_star_gal_sep/blob/main/plots/UMAP_u_baseline.jpg)
+![UMAP features](https://github.com/toddlcook/UMAP_star_gal_sep/blob/main/plots/UMAP_features.jpg)
