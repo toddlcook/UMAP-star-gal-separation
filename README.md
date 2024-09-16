@@ -11,7 +11,7 @@ The G09 data as well as the GAMA data used in these notebooks can be found in a 
 
 It should be trivial to replace the G09 data with any other WAVES fields, should the code need to be re-run.
 
-## Tutorial
+### Tutorial
 You should run the notebooks in order of their numbers.
 
 The first notebook (1.G09_u.ipynb) applies UMAP and uses HDBSCAN to conduct the star/galaxy separation with all available bands ($u-K_s$).
