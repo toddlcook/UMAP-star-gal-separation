@@ -24,4 +24,4 @@ Finally, the fourth notebook (**4.G09_analysis.ipynb**) conducts some cursory an
 
 
 ### Happy UMAPing! 
-![UMAP features](https://github.com/toddlcook/UMAP_star_gal_sep/blob/main/plots/UMAP_features.jpg)
+![UMAP corner](https://github.com/toddlcook/UMAP-star-gal-separation/blob/main/plots/UMAP_corner.jpg)
