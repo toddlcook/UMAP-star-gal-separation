@@ -1,4 +1,4 @@
-# UMAP_star_gal_sep
+# UMAP star/gal separation
  
 ### Introduction
 I've created this repo as a brief overview of the star/galaxy separation for the WAVES catalogue, described in [Cook et al. (2024)](https://arxiv.org/abs/2406.11611). 
